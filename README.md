@@ -14,6 +14,7 @@
 <br />https://cve.mitre.org
 <br />https://cwe.mitre.org
 <br />https://danielmiessler.com/study/tcpdump
+<br />https://dnsdumpster.com
 <br />https://docs.python.org
 <br />https://en.wikipedia.org
 <br />https://en.wiktionary.org
@@ -25,7 +26,7 @@
 <br />https://nmap.org
 <br />https://owasp.org
 <br />https://pentestmonkey.net
-<br />https://portswigger.net
+<br />https://portswigger.net/burp/documentation
 <br />https://quickref.me/nc
 <br />https://search.censys.io
 <br />https://thehackernews.com
