@@ -41,11 +41,13 @@
 <br />https://www.kali.org
 <br />https://www.laquadrature.net
 <br />https://www.offsec.com
+<br />https://www.py4e.com
 <br />https://www.python.org
 <br />https://www.root-me.org
 <br />https://www.shellscript.sh
 <br />https://www.shodan.io
 <br />https://www.silicon.fr
+<br />https://www.sqltutorial.org/sql-cheat-sheet
 <br />https://www.ssi.gouv.fr
 <br />https://www.thesaurus.com
 <br />https://www.usine-digitale.fr
