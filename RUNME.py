@@ -20,7 +20,7 @@ addables = list()
 readables = list()
 deletables = list()
 
-url_pattern = r'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+[\w/?=&.]*'
+url_pattern = r'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+[\w\-/?=&.]*'
 
 def rewrite(file, prefix = '', lines = False, suffix = '\n'):
     with open(file, 'w') as opened:
