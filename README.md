@@ -32,6 +32,8 @@
 <br />https://thehackernews.com
 <br />https://tryhackme.com
 <br />https://urlhaus.abuse.ch
+<br />https://www.base64decode.org
+<br />https://www.base64encode.org
 <br />https://www.blogdumoderateur.com
 <br />https://www.comptia.org
 <br />https://www.coursera.org
