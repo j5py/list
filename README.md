@@ -9,6 +9,7 @@
 <br />https://checkip.amazonaws.com
 <br />https://cnrtl.fr
 <br />https://crackstation.net
+<br />https://cric.grenoble.cnrs.fr/Administrateurs/Outils/CalculMasque
 <br />https://cryptohack.org
 <br />https://cryptoji.com
 <br />https://cve.mitre.org
@@ -45,7 +46,6 @@
 <br />https://www.kali.org
 <br />https://www.laquadrature.net
 <br />https://www.offsec.com
-<br />https://www.php.net/manual/en/reserved.variables.php
 <br />https://www.py4e.com
 <br />https://www.python.org
 <br />https://www.root-me.org
