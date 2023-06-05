@@ -19,6 +19,7 @@
 <br />https://en.wikipedia.org
 <br />https://en.wiktionary.org
 <br />https://exodus-privacy.eu.org
+<br />https://fr.onlinemschool.com/math/formula/order_table
 <br />https://hashcat.net/hashcat
 <br />https://infinitelogins.com/2021/02/24/linux
 <br />https://learn.microsoft.com
@@ -44,6 +45,7 @@
 <br />https://www.kali.org
 <br />https://www.laquadrature.net
 <br />https://www.offsec.com
+<br />https://www.php.net/manual/en/reserved.variables.php
 <br />https://www.py4e.com
 <br />https://www.python.org
 <br />https://www.root-me.org
