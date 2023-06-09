@@ -54,6 +54,7 @@
 <br />https://www.silicon.fr
 <br />https://www.sqltutorial.org/sql-cheat-sheet
 <br />https://www.ssi.gouv.fr
+<br />https://www.thehacker.recipes
 <br />https://www.thesaurus.com
 <br />https://www.usine-digitale.fr
 <br />https://www.w3schools.com
