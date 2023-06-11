@@ -3,6 +3,7 @@
 <br />https://academy.hackthebox.com
 <br />https://app.hackthebox.com/home
 <br />https://attack.mitre.org
+<br />https://beautifier.io
 <br />https://book.hacktricks.xyz
 <br />https://certifications.tcm-sec.com/pnpt
 <br />https://cheatsheetseries.owasp.org
@@ -17,12 +18,14 @@
 <br />https://danielmiessler.com/study/tcpdump
 <br />https://dnsdumpster.com
 <br />https://docs.python.org
+<br />https://eloquentjavascript.net
 <br />https://en.wikipedia.org
 <br />https://en.wiktionary.org
 <br />https://exodus-privacy.eu.org
 <br />https://fr.onlinemschool.com/math/formula/order_table
 <br />https://hashcat.net/hashcat
 <br />https://infinitelogins.com/2021/02/24/linux
+<br />https://jshint.com
 <br />https://learn.microsoft.com
 <br />https://news.ycombinator.com
 <br />https://nmap.org
@@ -39,6 +42,7 @@
 <br />https://www.blogdumoderateur.com
 <br />https://www.comptia.org
 <br />https://www.coursera.org
+<br />https://www.dcode.fr
 <br />https://www.exploit-db.com
 <br />https://www.guru99.com
 <br />https://www.hybrid-analysis.com
