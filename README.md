@@ -23,6 +23,7 @@
 <br />https://en.wiktionary.org
 <br />https://exodus-privacy.eu.org
 <br />https://fr.onlinemschool.com/math/formula/order_table
+<br />https://gtfobins.github.io
 <br />https://hashcat.net/hashcat
 <br />https://infinitelogins.com/2021/02/24/linux
 <br />https://jshint.com
