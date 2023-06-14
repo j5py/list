@@ -30,11 +30,14 @@
 <br />https://learn.microsoft.com
 <br />https://news.ycombinator.com
 <br />https://nmap.org
+<br />https://osintframework.com
 <br />https://owasp.org
 <br />https://pentestmonkey.net
 <br />https://portswigger.net/burp/documentation
 <br />https://quickref.me/nc
 <br />https://search.censys.io
+<br />https://shop.hak5.org
+<br />https://start.me/p/wMdQMQ/tools
 <br />https://thehackernews.com
 <br />https://tryhackme.com
 <br />https://urlhaus.abuse.ch
