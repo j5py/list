@@ -20,6 +20,7 @@
 <br />https://docs.python.org
 <br />https://eloquentjavascript.net
 <br />https://en.wikipedia.org
+<br />https://en.wikipedia.org/wiki/Google_hacking
 <br />https://en.wiktionary.org
 <br />https://exodus-privacy.eu.org
 <br />https://fr.onlinemschool.com/math/formula/order_table
@@ -40,7 +41,9 @@
 <br />https://start.me/p/wMdQMQ/tools
 <br />https://thehackernews.com
 <br />https://tryhackme.com
+<br />https://ui.ctsearch.entrust.com/ui/ctsearchui
 <br />https://urlhaus.abuse.ch
+<br />https://wiki.owasp.org/index.php/OWASP_favicon_database
 <br />https://www.base64decode.org
 <br />https://www.base64encode.org
 <br />https://www.blogdumoderateur.com
@@ -54,6 +57,7 @@
 <br />https://www.kali.org
 <br />https://www.laquadrature.net
 <br />https://www.offsec.com
+<br />https://www.parrotsec.org
 <br />https://www.py4e.com
 <br />https://www.python.org
 <br />https://www.root-me.org
