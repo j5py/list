@@ -50,6 +50,7 @@
 <br />https://www.comptia.org
 <br />https://www.coursera.org
 <br />https://www.dcode.fr
+<br />https://www.developpez.com
 <br />https://www.exploit-db.com
 <br />https://www.guru99.com
 <br />https://www.hybrid-analysis.com
