@@ -16,6 +16,7 @@
 <br />https://cve.mitre.org
 <br />https://cwe.mitre.org
 <br />https://danielmiessler.com/study/tcpdump
+<br />https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 <br />https://dnsdumpster.com
 <br />https://docs.python.org
 <br />https://eloquentjavascript.net
