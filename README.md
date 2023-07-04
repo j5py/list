@@ -25,6 +25,7 @@
 <br />https://en.wiktionary.org
 <br />https://exodus-privacy.eu.org
 <br />https://fr.onlinemschool.com/math/formula/order_table
+<br />https://gchq.github.io/CyberChef
 <br />https://gtfobins.github.io
 <br />https://hashcat.net/hashcat
 <br />https://infinitelogins.com/2021/02/24/linux
@@ -46,6 +47,7 @@
 <br />https://ui.ctsearch.entrust.com/ui/ctsearchui
 <br />https://urlhaus.abuse.ch
 <br />https://wiki.owasp.org/index.php/OWASP_favicon_database
+<br />https://www.asciitable.com
 <br />https://www.base64decode.org
 <br />https://www.base64encode.org
 <br />https://www.blogdumoderateur.com
