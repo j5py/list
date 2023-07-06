@@ -27,6 +27,7 @@
 <br />https://fr.onlinemschool.com/math/formula/order_table
 <br />https://gchq.github.io/CyberChef
 <br />https://gtfobins.github.io
+<br />https://gtfobins.github.io/gtfobins/journalctl
 <br />https://hashcat.net/hashcat
 <br />https://infinitelogins.com/2021/02/24/linux
 <br />https://jshint.com
@@ -60,6 +61,7 @@
 <br />https://www.hybrid-analysis.com
 <br />https://www.ietf.org
 <br />https://www.joesandbox.com
+<br />https://www.jython.org
 <br />https://www.kali.org
 <br />https://www.laquadrature.net
 <br />https://www.offsec.com
