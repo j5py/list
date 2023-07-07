@@ -18,6 +18,7 @@
 <br />https://danielmiessler.com/study/tcpdump
 <br />https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 <br />https://dnsdumpster.com
+<br />https://docs.docker.com
 <br />https://docs.python.org
 <br />https://eloquentjavascript.net
 <br />https://en.wikipedia.org
@@ -54,6 +55,7 @@
 <br />https://www.blogdumoderateur.com
 <br />https://www.comptia.org
 <br />https://www.coursera.org
+<br />https://www.cve.org
 <br />https://www.dcode.fr
 <br />https://www.developpez.com
 <br />https://www.exploit-db.com
@@ -74,6 +76,7 @@
 <br />https://www.silicon.fr
 <br />https://www.sqltutorial.org/sql-cheat-sheet
 <br />https://www.ssi.gouv.fr
+<br />https://www.tenable.com/cve/newest
 <br />https://www.thehacker.recipes
 <br />https://www.thesaurus.com
 <br />https://www.usine-digitale.fr
