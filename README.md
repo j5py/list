@@ -36,8 +36,7 @@
 <br />https://news.ycombinator.com
 <br />https://nmap.org
 <br />https://osintframework.com
-<br />https://owasp.org
-<br />https://owasp.org/www-project-top-ten
+<br />https://owasp.org/Top10
 <br />https://pentestmonkey.net
 <br />https://portswigger.net/burp/documentation
 <br />https://quickref.me/nc
@@ -45,9 +44,11 @@
 <br />https://shop.hak5.org
 <br />https://start.me/p/wMdQMQ/tools
 <br />https://thehackernews.com
+<br />https://thezerohack.com
 <br />https://tryhackme.com
 <br />https://ui.ctsearch.entrust.com/ui/ctsearchui
 <br />https://urlhaus.abuse.ch
+<br />https://werkzeug.palletsprojects.com
 <br />https://wiki.owasp.org/index.php/OWASP_favicon_database
 <br />https://www.asciitable.com
 <br />https://www.base64decode.org
