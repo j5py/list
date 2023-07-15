@@ -2,6 +2,7 @@
 <br />http://project-rainbowcrack.com
 <br />https://academy.hackthebox.com
 <br />https://app.hackthebox.com/home
+<br />https://appdevtools.com/base64-encoder-decoder
 <br />https://attack.mitre.org
 <br />https://beautifier.io
 <br />https://book.hacktricks.xyz
@@ -76,6 +77,7 @@
 <br />https://www.shodan.io
 <br />https://www.silicon.fr
 <br />https://www.sqltutorial.org/sql-cheat-sheet
+<br />https://www.srihash.org
 <br />https://www.ssi.gouv.fr
 <br />https://www.tenable.com/cve/newest
 <br />https://www.thehacker.recipes
@@ -83,6 +85,7 @@
 <br />https://www.usine-digitale.fr
 <br />https://www.vulnhub.com
 <br />https://www.w3schools.com
+<br />https://www.wappalyzer.com
 <br />https://www.wireguard.com
 <br />https://www.wireshark.org
 <br />https://www.zataz.com
