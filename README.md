@@ -1,6 +1,8 @@
 <br />http://intronetworks.cs.luc.edu
 <br />http://project-rainbowcrack.com
 <br />https://academy.hackthebox.com
+<br />https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard
+<br />https://addons.mozilla.org/en-US/firefox/addon/wappalyzer
 <br />https://app.hackthebox.com/home
 <br />https://appdevtools.com/base64-encoder-decoder
 <br />https://attack.mitre.org
@@ -24,6 +26,7 @@
 <br />https://eloquentjavascript.net
 <br />https://en.wikipedia.org
 <br />https://en.wikipedia.org/wiki/Google_hacking
+<br />https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
 <br />https://en.wiktionary.org
 <br />https://exodus-privacy.eu.org
 <br />https://fr.onlinemschool.com/math/formula/order_table
