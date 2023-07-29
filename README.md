@@ -28,6 +28,8 @@
 <br />https://en.wikipedia.org
 <br />https://en.wikipedia.org/wiki/Google_hacking
 <br />https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+<br />https://en.wikipedia.org/wiki/List_of_file_formats
+<br />https://en.wikipedia.org/wiki/List_of_file_signatures
 <br />https://en.wiktionary.org
 <br />https://exodus-privacy.eu.org
 <br />https://fr.onlinemschool.com/math/formula/order_table
@@ -35,6 +37,7 @@
 <br />https://gtfobins.github.io
 <br />https://gtfobins.github.io/gtfobins/journalctl
 <br />https://hashcat.net/hashcat
+<br />https://highon.coffee/blog/penetration-testing-tools-cheat-sheet
 <br />https://infinitelogins.com/2021/02/24/linux
 <br />https://jshint.com
 <br />https://learn.microsoft.com
@@ -50,7 +53,7 @@
 <br />https://start.me/p/wMdQMQ/tools
 <br />https://thehackernews.com
 <br />https://thezerohack.com
-<br />https://tryhackme.com
+<br />https://tryhackme.com/glossary
 <br />https://ui.ctsearch.entrust.com/ui/ctsearchui
 <br />https://urlhaus.abuse.ch
 <br />https://werkzeug.palletsprojects.com
