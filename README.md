@@ -32,6 +32,7 @@
 <br />https://en.wikipedia.org/wiki/List_of_file_signatures
 <br />https://en.wiktionary.org
 <br />https://exodus-privacy.eu.org
+<br />https://filigrane.beta.gouv.fr
 <br />https://fr.onlinemschool.com/math/formula/order_table
 <br />https://gchq.github.io/CyberChef
 <br />https://gtfobins.github.io
