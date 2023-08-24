@@ -52,6 +52,7 @@
 <br />https://search.censys.io
 <br />https://shop.hak5.org
 <br />https://start.me/p/wMdQMQ/tools
+<br />https://talosintelligence.com
 <br />https://thehackernews.com
 <br />https://thezerohack.com
 <br />https://tryhackme.com/glossary
@@ -59,6 +60,7 @@
 <br />https://urlhaus.abuse.ch
 <br />https://werkzeug.palletsprojects.com
 <br />https://wiki.owasp.org/index.php/OWASP_favicon_database
+<br />https://www.abuseipdb.com
 <br />https://www.asciitable.com
 <br />https://www.base64decode.org
 <br />https://www.base64encode.org
@@ -72,15 +74,19 @@
 <br />https://www.guru99.com
 <br />https://www.hybrid-analysis.com
 <br />https://www.ietf.org
+<br />https://www.isecom.org
 <br />https://www.joesandbox.com
 <br />https://www.jython.org
 <br />https://www.kali.org
 <br />https://www.laquadrature.net
+<br />https://www.ncsc.gov.uk
+<br />https://www.nist.gov
 <br />https://www.offsec.com
 <br />https://www.parrotsec.org
 <br />https://www.py4e.com
 <br />https://www.python.org
 <br />https://www.root-me.org
+<br />https://www.securitymagazine.com
 <br />https://www.shellscript.sh
 <br />https://www.shodan.io
 <br />https://www.silicon.fr
