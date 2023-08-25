@@ -5,6 +5,7 @@
 <br />https://addons.mozilla.org/en-US/firefox/addon/wappalyzer
 <br />https://app.hackthebox.com/home
 <br />https://appdevtools.com/base64-encoder-decoder
+<br />https://archive.org/web
 <br />https://attack.mitre.org
 <br />https://beautifier.io
 <br />https://book.hacktricks.xyz
@@ -14,6 +15,7 @@
 <br />https://cnrtl.fr
 <br />https://crackstation.net
 <br />https://cric.grenoble.cnrs.fr/Administrateurs/Outils/CalculMasque
+<br />https://crt.sh
 <br />https://cryptohack.org
 <br />https://cryptoji.com
 <br />https://cve.mitre.org
