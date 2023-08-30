@@ -2,6 +2,7 @@
 <br />http://project-rainbowcrack.com
 <br />https://academy.hackthebox.com
 <br />https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard
+<br />https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher
 <br />https://addons.mozilla.org/en-US/firefox/addon/wappalyzer
 <br />https://app.hackthebox.com/home
 <br />https://appdevtools.com/base64-encoder-decoder
@@ -40,6 +41,7 @@
 <br />https://gtfobins.github.io
 <br />https://gtfobins.github.io/gtfobins/journalctl
 <br />https://hashcat.net/hashcat
+<br />https://help.shodan.io
 <br />https://highon.coffee/blog/penetration-testing-tools-cheat-sheet
 <br />https://infinitelogins.com/2021/02/24/linux
 <br />https://infosniper.net
