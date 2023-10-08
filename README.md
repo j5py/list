@@ -36,7 +36,6 @@
 <br />https://en.wikipedia.org/wiki/Public-key_cryptography
 <br />https://en.wiktionary.org
 <br />https://exodus-privacy.eu.org
-<br />https://filigrane.beta.gouv.fr
 <br />https://fr.onlinemschool.com/math/formula/order_table
 <br />https://gchq.github.io/CyberChef
 <br />https://gtfobins.github.io
@@ -50,8 +49,11 @@
 <br />https://learn.microsoft.com
 <br />https://news.ycombinator.com
 <br />https://nmap.org
+<br />https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
+<br />https://nvd.nist.gov/vuln/full-listing
 <br />https://osintframework.com
 <br />https://owasp.org/Top10
+<br />https://owasp.org/www-project-top-ten
 <br />https://pentestmonkey.net
 <br />https://portswigger.net/burp/documentation
 <br />https://quickref.me/nc
@@ -93,6 +95,7 @@
 <br />https://www.parrotsec.org
 <br />https://www.py4e.com
 <br />https://www.python.org
+<br />https://www.rapid7.com/db
 <br />https://www.root-me.org
 <br />https://www.royhills.co.uk/wiki/index.php/Arp-scan_Documentation
 <br />https://www.securitymagazine.com
@@ -103,6 +106,7 @@
 <br />https://www.srihash.org
 <br />https://www.ssi.gouv.fr
 <br />https://www.tenable.com/cve/newest
+<br />https://www.tenable.com/products/nessus
 <br />https://www.thehacker.recipes
 <br />https://www.thesaurus.com
 <br />https://www.usine-digitale.fr
