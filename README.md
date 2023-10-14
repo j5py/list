@@ -29,6 +29,7 @@
 <br />https://docs.python.org
 <br />https://eloquentjavascript.net
 <br />https://en.wikipedia.org
+<br />https://en.wikipedia.org/wiki/Category
 <br />https://en.wikipedia.org/wiki/Google_hacking
 <br />https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
 <br />https://en.wikipedia.org/wiki/List_of_file_formats
