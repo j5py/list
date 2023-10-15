@@ -92,6 +92,7 @@
 <br />https://www.ncsc.gov.uk
 <br />https://www.nist.gov
 <br />https://www.offsec.com
+<br />https://www.offsec.com/metasploit-unleashed/msfvenom
 <br />https://www.parrotsec.org
 <br />https://www.py4e.com
 <br />https://www.python.org
