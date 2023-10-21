@@ -29,6 +29,7 @@
 <br />https://docs.python.org
 <br />https://eloquentjavascript.net
 <br />https://en.wikipedia.org
+<br />https://en.wikipedia.org/wiki/Category:Computer_security_exploits
 <br />https://en.wikipedia.org/wiki/Google_hacking
 <br />https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
 <br />https://en.wikipedia.org/wiki/List_of_file_formats
@@ -58,6 +59,7 @@
 <br />https://pentestmonkey.net
 <br />https://portswigger.net/burp/documentation
 <br />https://quickref.me/nc
+<br />https://regex101.com
 <br />https://search.censys.io
 <br />https://shop.hak5.org
 <br />https://start.me/p/wMdQMQ/tools
@@ -67,6 +69,7 @@
 <br />https://tryhackme.com/glossary
 <br />https://ui.ctsearch.entrust.com/ui/ctsearchui
 <br />https://urlhaus.abuse.ch
+<br />https://web.archive.org/web/20200901140719/http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 <br />https://werkzeug.palletsprojects.com
 <br />https://wiki.owasp.org/index.php/OWASP_favicon_database
 <br />https://www.abuseipdb.com
