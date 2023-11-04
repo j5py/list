@@ -19,6 +19,7 @@
 <br />https://danielmiessler.com/study/tcpdump
 <br />https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types
 <br />https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+<br />https://dirtycow.ninja
 <br />https://dnsdumpster.com
 <br />https://docs.docker.com
 <br />https://docs.python.org
