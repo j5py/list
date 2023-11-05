@@ -29,6 +29,7 @@
 <br />https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
 <br />https://en.wikipedia.org/wiki/List_of_file_formats
 <br />https://en.wikipedia.org/wiki/List_of_file_signatures
+<br />https://en.wikipedia.org/wiki/Logic_gate
 <br />https://en.wikipedia.org/wiki/Public-key_cryptography
 <br />https://en.wikipedia.org/wiki/Rainbow_table
 <br />https://fr.onlinemschool.com/math/formula/order_table
