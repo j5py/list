@@ -41,6 +41,7 @@
 <br />https://highon.coffee/blog/penetration-testing-tools-cheat-sheet
 <br />https://infinitelogins.com/2021/02/24/linux
 <br />https://infosniper.net
+<br />https://jsfiddle.net
 <br />https://jshint.com
 <br />https://learn.microsoft.com
 <br />https://nmap.org
