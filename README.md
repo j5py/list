@@ -53,6 +53,7 @@
 <br />https://portswigger.net/burp/documentation
 <br />https://quickref.me/nc
 <br />https://regex101.com
+<br />https://restfulapi.net
 <br />https://search.censys.io
 <br />https://shop.hak5.org
 <br />https://start.me/p/wMdQMQ/tools
