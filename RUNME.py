@@ -7,6 +7,54 @@ where_new_valid_urls_are_stored_alphabetically = 'README.md'
 
 
 
+class Pattern:
+
+    @staticmethod
+    def __init__():
+        Pattern.regex = r'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+[\w\-/?=&.:]*'
+
+    @staticmethod
+    def clean(string):
+        return string.strip(' /')
+
+    @staticmethod
+    def valid_url(string):
+        try:
+            match = re.search(Pattern.regex, string).group(0)
+            return Pattern.clean(match)
+        except:
+            return None
+
+
+
+class List:
+
+    def __init__(instance):
+        instance.addables = list()
+        instance.readables = list()
+        instance.deletables = list()
+
+    @staticmethod
+    def get_unique(entries, alphabetical = True):
+        entries = list(set(entries))
+        if alphabetical:
+            return sorted(entries)
+        return entries
+
+
+
+class Readme:
+
+    @staticmethod
+    def __init__():
+        Readme.line_break = '<br />'
+
+    @staticmethod
+    def untag(string):
+        return string.replace(Readme.line_break, '')
+
+
+
 class File:
 
     @staticmethod
@@ -32,51 +80,16 @@ class File:
 
 
 
-class Readme:
+class Persistence(List, Readme, File):
 
-    @staticmethod
-    def __init__():
-        Readme.line_break = '<br />'
-
-    @staticmethod
-    def undo_as_line(string):
-        return string.replace(Readme.line_break, '')
-
-
-
-class Pattern:
-
-    @staticmethod
-    def __init__():
-        Pattern.regex = r'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+[\w\-/?=&.:]*'
-
-    @staticmethod
-    def clean(string):
-        return string.strip(' /')
-
-    @staticmethod
-    def valid_url(string):
-        try:
-            match = re.search(Pattern.regex, string).group(0)
-            return Pattern.clean(match)
-        except:
-            return None
-
-
-
-class List:
-
-    def __init__(boot):
-        boot.addables = list()
-        boot.readables = list()
-        boot.deletables = list()
-
-    @staticmethod
-    def get_unique(entries, alphabetical = True):
-        entries = list(set(entries))
-        if alphabetical:
-            return sorted(entries)
-        return entries
+    def of(instance):
+        File.rewrite(where_potential_urls_can_be_proposed_one_per_line)
+        File.rewrite(
+            where_new_valid_urls_are_stored_alphabetically,
+            Readme.line_break,
+            instance.readables,
+            True
+        )
 
 
 
@@ -101,98 +114,77 @@ class Interface:
         return string
 
     @staticmethod
-    def demarcate(divider, prefix = None):
-        if prefix is True:
-            print('\n' + divider)
-        elif prefix is False:
-            print(divider + '\n')
-        elif prefix is None:
-            print(divider)
+    def help(text):
+        print('\n' + Interface.main_divider)
+        print(Interface.margin + text)
+        print(Interface.main_divider + '\n')
 
     @staticmethod
-    def help(instructions):
-        Interface.demarcate(Interface.main_divider, True)
-        print(f'{Interface.margin}HELP {instructions}')
-        Interface.demarcate(Interface.main_divider, False)
+    def report(text):
+        print('\n' + Interface.margin + text + '\n')
 
-    @staticmethod
-    def display(text, initial = False):
-        if initial:
-            Interface.demarcate(Interface.sub_divider)
-        print(("\n" if initial else "") + Interface.margin + text)
-        if not initial:
-            Interface.demarcate(Interface.sub_divider)
-
-
-
-class Persistence(List, Readme, File):
-    def update(boot):
-        File.rewrite(where_potential_urls_can_be_proposed_one_per_line)
-        File.rewrite(
-            where_new_valid_urls_are_stored_alphabetically,
-            Readme.line_break,
-            boot.readables,
-            True
-        )
 
 
 
 class Interactive(Persistence, Interface, List):
 
-    def ask(question):
-        return input(Interface.margin + question)
-
-    def run(boot):
+    def run(instance):
         Interface.help('"q" ends, "example\.io" searches')
         while True:
             it = Interactive.ask('Something to delete? ')
             if 'q' == it:
-                Interface.display('End of execution')
-                quit()
-            for each in boot.readables:
+                Interactive.end()
+            for each in instance.readables:
                 try:
-                    boot.deletables.append(
+                    instance.deletables.append(
                         re.search(f'(.*)?{it}(.*)?', each).group(0)
                     )
                 except:
                     continue
-            if len(boot.deletables):
-                for each in boot.deletables:
+            if len(instance.deletables):
+                print(Interface.sub_divider)
+                for each in instance.deletables:
                     print(Interface.margin + each)
                 Interface.help('"q" ends, "y" confirms, any other choice cancels')
                 it = Interactive.ask('Do you confirm deletion? ')
                 if 'y' == it:
-                    for each in boot.deletables:
-                        boot.readables.remove(each)
-                    Persistence.update(boot)
-                    Interface.display('Deletion done')
+                    for each in instance.deletables:
+                        instance.readables.remove(each)
+                    Persistence.of(instance)
+                    Interface.report('Deletion done')
                 else:
-                    Interface.display('Deletion canceled')
+                    Interface.report('Deletion canceled')
                 if 'q' == it:
-                    Interface.display('End of execution')
-                    quit()
-                boot.deletables = list()
+                    Interactive.end()
+                instance.deletables = list()
             else:
-                Interface.display('No match')
+                Interface.report('No match')
+
+    def ask(question):
+        return input(Interface.margin + question)
+
+    def end():
+        Interface.report('End of execution')
+        quit()
 
 
 
 class Boot(Interactive, Persistence, Interface, List, Pattern, Readme, File):
 
     def __init__(self):
-        self.argument = len(sys.argv) > 1
-        Readme.__init__()
-        Pattern.__init__()
+        self.p = len(sys.argv) > 1
         List.__init__(self)
-        Interface.__init__()
+        Pattern.__init__()
+        Readme.__init__()
         self.fetch_data()
         self.process_data()
-        Persistence.update(self)
-        self.update_report()
+        Persistence.of(self)
+        Interface.__init__()
+        self.display_state()
         Interactive.run(self)
 
     def fetch_data(self):
-        if self.argument:
+        if self.p:
             for each in sys.argv[1:]:
                 each = Pattern.valid_url(each)
                 if each:
@@ -204,7 +196,7 @@ class Boot(Interactive, Persistence, Interface, List, Pattern, Readme, File):
             )
         self.readables = File.get_processed_entries(
             where_new_valid_urls_are_stored_alphabetically,
-            Readme.undo_as_line
+            Readme.untag
         )
 
     def process_data(self):
@@ -212,20 +204,20 @@ class Boot(Interactive, Persistence, Interface, List, Pattern, Readme, File):
         self.readables = List.get_unique(self.readables + self.addables)
         self.updated = len(self.readables)
 
-    def update_report(self):
+    def display_state(self):
         if self.updated > self.previous:
-            if self.argument:
-                up = f'Command line argument{"s" if self.updated - self.previous > 1 else ""}'
-                up += f' moved in {where_new_valid_urls_are_stored_alphabetically}'
+            if self.p:
+                i = f'Command line p{"s" if self.updated - self.previous > 1 else ""}'
+                i += f' moved in {where_new_valid_urls_are_stored_alphabetically}'
             else:
-                up = f'Content of {where_potential_urls_can_be_proposed_one_per_line}'
-                up += f' moved to {where_new_valid_urls_are_stored_alphabetically}'
+                i = f'Content of {where_potential_urls_can_be_proposed_one_per_line}'
+                i += f' moved to {where_new_valid_urls_are_stored_alphabetically}'
         else:
-            if self.argument:
-                up = f'There was no valid new URL passed as an argument'
+            if self.p:
+                i = f'There was no valid new URL passed as an p'
             else:
-                up = f'There was no valid new URL in {where_potential_urls_can_be_proposed_one_per_line}'
-        Interface.display(up, True)
+                i = f'There was no valid new URL in {where_potential_urls_can_be_proposed_one_per_line}'
+        Interface.report(i)
 
 
 
