@@ -2,12 +2,13 @@
 import re
 import sys
 
+
 where_potential_urls_can_be_proposed_one_per_line = 'FEEDME.txt'
 where_new_valid_urls_are_stored_alphabetically = 'README.md'
 
 
 
-class Pattern:
+class Pattern: #parent
 
     @staticmethod
     def __init__():
@@ -27,7 +28,7 @@ class Pattern:
 
 
 
-class List:
+class List: #parent
 
     def __init__(instance):
         instance.addables = list()
@@ -43,7 +44,7 @@ class List:
 
 
 
-class Readme:
+class Readme: #parent
 
     @staticmethod
     def __init__():
@@ -55,7 +56,7 @@ class Readme:
 
 
 
-class File:
+class File: #parent
 
     @staticmethod
     def rewrite(file, prefix = '', entries = False, line_feed = False):
@@ -80,20 +81,7 @@ class File:
 
 
 
-class Persistence(List, Readme, File):
-
-    def of(instance):
-        File.rewrite(where_potential_urls_can_be_proposed_one_per_line)
-        File.rewrite(
-            where_new_valid_urls_are_stored_alphabetically,
-            Readme.line_break,
-            instance.readables,
-            True
-        )
-
-
-
-class Interface:
+class Interface: #parent
 
     @staticmethod
     def __init__():
@@ -125,8 +113,20 @@ class Interface:
 
 
 
+class Persistence(File, Readme): #child
 
-class Interactive(Persistence, Interface, List):
+    def of(instance):
+        File.rewrite(where_potential_urls_can_be_proposed_one_per_line)
+        File.rewrite(
+            where_new_valid_urls_are_stored_alphabetically,
+            Readme.line_break,
+            instance.readables,
+            True
+        )
+
+
+
+class Interactive(Interface, Persistence): #grandchild
 
     def run(instance):
         Interface.help('"q" ends, "example\.io" searches')
@@ -169,7 +169,7 @@ class Interactive(Persistence, Interface, List):
 
 
 
-class Boot(Interactive, Persistence, Interface, List, Pattern, Readme, File):
+class Boot(Interactive, Persistence, List, Pattern): #great-grandchild
 
     def __init__(self):
         self.p = len(sys.argv) > 1
