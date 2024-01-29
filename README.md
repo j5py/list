@@ -22,17 +22,16 @@
 <br />https://en.wikipedia.org/wiki/Logic_gate
 <br />https://en.wikipedia.org/wiki/Public-key_cryptography
 <br />https://en.wikipedia.org/wiki/Rainbow_table
+<br />https://exegol.readthedocs.io
+<br />https://exploit-notes.hdks.org
 <br />https://gchq.github.io/CyberChef
-<br />https://gtfobins.github.io
-<br />https://gtfobins.github.io/gtfobins/journalctl
-<br />https://hashcat.net/hashcat
 <br />https://help.shodan.io
 <br />https://highon.coffee/blog/penetration-testing-tools-cheat-sheet
 <br />https://infinitelogins.com/2021/02/24/linux-privilege-escalation-weak-file-permissions-writable-etc-passwd
 <br />https://infosniper.net
-<br />https://nmap.org
 <br />https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
 <br />https://nvd.nist.gov/vuln/full-listing
+<br />https://orange-cyberdefense.github.io/ocd-mindmaps
 <br />https://osintframework.com
 <br />https://owasp.org/Top10
 <br />https://pentestmonkey.net
@@ -55,6 +54,7 @@
 <br />https://www.hybrid-analysis.com
 <br />https://www.joesandbox.com
 <br />https://www.kali.org
+<br />https://www.mandiant.com/resources/blog/commando-vm-windows-offensive-distribution
 <br />https://www.offsec.com/metasploit-unleashed/msfvenom
 <br />https://www.rapid7.com/db
 <br />https://www.royhills.co.uk/wiki/index.php/Arp-scan_Documentation
@@ -65,4 +65,3 @@
 <br />https://www.thehacker.recipes
 <br />https://www.vulnhub.com
 <br />https://www.wireguard.com
-<br />https://www.wireshark.org
