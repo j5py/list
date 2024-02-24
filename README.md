@@ -25,6 +25,7 @@
 <br />https://exegol.readthedocs.io
 <br />https://exploit-notes.hdks.org
 <br />https://gchq.github.io/CyberChef
+<br />https://gtfobins.github.io
 <br />https://help.shodan.io
 <br />https://highon.coffee/blog/penetration-testing-tools-cheat-sheet
 <br />https://infinitelogins.com/2021/02/24/linux-privilege-escalation-weak-file-permissions-writable-etc-passwd
@@ -54,6 +55,7 @@
 <br />https://www.hybrid-analysis.com
 <br />https://www.joesandbox.com
 <br />https://www.kali.org
+<br />https://www.linuxkernelcves.com/cves
 <br />https://www.mandiant.com/resources/blog/commando-vm-windows-offensive-distribution
 <br />https://www.offsec.com/metasploit-unleashed/msfvenom
 <br />https://www.rapid7.com/db
