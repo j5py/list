@@ -28,7 +28,6 @@
 <br />https://en.wikipedia.org/wiki/File_URI_scheme
 <br />https://en.wikipedia.org/wiki/GNU_Compiler_Collection
 <br />https://en.wikipedia.org/wiki/Google_hacking
-<br />https://en.wikipedia.org/wiki/Gopher_
 <br />https://en.wikipedia.org/wiki/IDN_homograph_attack
 <br />https://en.wikipedia.org/wiki/IPv4_address_exhaustion
 <br />https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol
