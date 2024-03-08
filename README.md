@@ -44,12 +44,9 @@
 <br />https://en.wikipedia.org/wiki/Pass_the_hash
 <br />https://en.wikipedia.org/wiki/Password_cracking
 <br />https://en.wikipedia.org/wiki/Public-key_cryptography
-<br />https://en.wikipedia.org/wiki/RSA_
 <br />https://en.wikipedia.org/wiki/Rainbow_table
-<br />https://en.wikipedia.org/wiki/Samba_
 <br />https://en.wikipedia.org/wiki/Security_Account_Manager
 <br />https://en.wikipedia.org/wiki/Setuid
-<br />https://en.wikipedia.org/wiki/Shellshock_
 <br />https://en.wikipedia.org/wiki/Single_point_of_failure
 <br />https://en.wikipedia.org/wiki/Stuxnet
 <br />https://en.wikipedia.org/wiki/Windows_Registry
