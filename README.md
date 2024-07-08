@@ -2,6 +2,7 @@
 <br />https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard
 <br />https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher
 <br />https://addons.mozilla.org/en-US/firefox/addon/wappalyzer
+<br />https://ahrefs.com/blog/google-advanced-search-operators
 <br />https://attack.mitre.org
 <br />https://book.hacktricks.xyz
 <br />https://cheatsheetseries.owasp.org
