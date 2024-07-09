@@ -94,7 +94,7 @@
 <br />https://www.shodan.io
 <br />https://www.srihash.org
 <br />https://www.tenable.com/cve/newest
-<br />https://www.tenable.com/products/nessus
+<br />https://www.tenable.com/downloads/nessus
 <br />https://www.thehacker.recipes
 <br />https://www.vulnhub.com
 <br />https://www.wireguard.com
