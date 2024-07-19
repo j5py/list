@@ -16,6 +16,7 @@
 <br />https://dirtycow.ninja
 <br />https://dnsdumpster.com
 <br />https://dnsleaktest.com
+<br />https://duckduckgo.com/?q=DuckDuckGo&ia=chat
 <br />https://en.wikipedia.org/wiki/Birthday_attack
 <br />https://en.wikipedia.org/wiki/Captive_portal
 <br />https://en.wikipedia.org/wiki/Category:Computer_security_exploits
@@ -81,6 +82,7 @@
 <br />https://web.archive.org/web/20200901140719/http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 <br />https://wiki.owasp.org/index.php/OWASP_favicon_database
 <br />https://www.abuseipdb.com
+<br />https://www.blackbox.ai
 <br />https://www.cve.org
 <br />https://www.dcode.fr
 <br />https://www.ettercap-project.org
