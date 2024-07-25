@@ -18,7 +18,12 @@
 <br />https://delinea.com/blog/windows-privilege-escalation
 <br />https://dirtycow.ninja
 <br />https://dnsdumpster.com
+<<<<<<< HEAD
 <br />https://electricalacademia.com/computer/windows-networking-basics
+=======
+<br />https://dnsleaktest.com
+<br />https://duckduckgo.com/?q=DuckDuckGo&ia=chat
+>>>>>>> 67818d63dc26e48d03420085a1efc2ed1ed441ed
 <br />https://en.wikipedia.org/wiki/Birthday_attack
 <br />https://en.wikipedia.org/wiki/Captive_portal
 <br />https://en.wikipedia.org/wiki/Category:Computer_security_exploits
@@ -53,6 +58,7 @@
 <br />https://en.wikipedia.org/wiki/Security_Account_Manager
 <br />https://en.wikipedia.org/wiki/Setuid
 <br />https://en.wikipedia.org/wiki/Single_point_of_failure
+<br />https://en.wikipedia.org/wiki/Standard_streams
 <br />https://en.wikipedia.org/wiki/Stuxnet
 <br />https://en.wikipedia.org/wiki/Windows_Registry
 <br />https://en.wikipedia.org/wiki/X86_instruction_listings
@@ -86,6 +92,7 @@
 <br />https://web.archive.org/web/20200901140719/http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 <br />https://wiki.owasp.org/index.php/OWASP_favicon_database
 <br />https://www.abuseipdb.com
+<br />https://www.blackbox.ai
 <br />https://www.cve.org
 <br />https://www.dcode.fr
 <br />https://www.ettercap-project.org
@@ -103,7 +110,7 @@
 <br />https://www.shodan.io
 <br />https://www.srihash.org
 <br />https://www.tenable.com/cve/newest
-<br />https://www.tenable.com/products/nessus
+<br />https://www.tenable.com/downloads/nessus
 <br />https://www.thehacker.recipes
 <br />https://www.vulnhub.com
 <br />https://www.wireguard.com
