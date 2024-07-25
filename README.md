@@ -18,12 +18,9 @@
 <br />https://delinea.com/blog/windows-privilege-escalation
 <br />https://dirtycow.ninja
 <br />https://dnsdumpster.com
-<<<<<<< HEAD
 <br />https://electricalacademia.com/computer/windows-networking-basics
-=======
 <br />https://dnsleaktest.com
 <br />https://duckduckgo.com/?q=DuckDuckGo&ia=chat
->>>>>>> 67818d63dc26e48d03420085a1efc2ed1ed441ed
 <br />https://en.wikipedia.org/wiki/Birthday_attack
 <br />https://en.wikipedia.org/wiki/Captive_portal
 <br />https://en.wikipedia.org/wiki/Category:Computer_security_exploits
