@@ -4,6 +4,8 @@
 <br />https://addons.mozilla.org/en-US/firefox/addon/wappalyzer
 <br />https://ahrefs.com/blog/google-advanced-search-operators
 <br />https://attack.mitre.org
+<br />https://attack.mitre.org/techniques/T1574/001
+<br />https://blog.netwrix.com/2022/01/11/understanding-lsa-protection
 <br />https://book.hacktricks.xyz
 <br />https://cheatsheetseries.owasp.org
 <br />https://crackstation.net
@@ -13,8 +15,10 @@
 <br />https://cve.mitre.org
 <br />https://cwe.mitre.org
 <br />https://danielmiessler.com/study/tcpdump
+<br />https://delinea.com/blog/windows-privilege-escalation
 <br />https://dirtycow.ninja
 <br />https://dnsdumpster.com
+<br />https://electricalacademia.com/computer/windows-networking-basics
 <br />https://en.wikipedia.org/wiki/Birthday_attack
 <br />https://en.wikipedia.org/wiki/Captive_portal
 <br />https://en.wikipedia.org/wiki/Category:Computer_security_exploits
@@ -61,6 +65,7 @@
 <br />https://highon.coffee/blog/penetration-testing-tools-cheat-sheet
 <br />https://infinitelogins.com/2021/02/24/linux-privilege-escalation-weak-file-permissions-writable-etc-passwd
 <br />https://infosniper.net
+<br />https://learn.microsoft.com/en-us/training/modules/network-fundamentals
 <br />https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
 <br />https://nvd.nist.gov/vuln/full-listing
 <br />https://orange-cyberdefense.github.io/ocd-mindmaps
@@ -72,7 +77,9 @@
 <br />https://search.censys.io
 <br />https://shop.hak5.org
 <br />https://start.me/p/wMdQMQ/tools
+<br />https://steflan-security.com/windows-privilege-escalation-alwaysinstallelevated-policy
 <br />https://talosintelligence.com
+<br />https://thinkadnet.com/2021/03/edr-vs-antivirus-whats-the-difference
 <br />https://tryhackme.com/glossary
 <br />https://ui.ctsearch.entrust.com/ui/ctsearchui
 <br />https://urlhaus.abuse.ch
@@ -88,7 +95,9 @@
 <br />https://www.kali.org
 <br />https://www.linuxkernelcves.com/cves
 <br />https://www.mandiant.com/resources/blog/commando-vm-windows-offensive-distribution
+<br />https://www.nirsoft.net/password_recovery_tools.html
 <br />https://www.offsec.com/metasploit-unleashed/msfvenom
+<br />https://www.practicallynetworked.com/networking-commands
 <br />https://www.rapid7.com/db
 <br />https://www.royhills.co.uk/wiki/index.php/Arp-scan_Documentation
 <br />https://www.shodan.io
