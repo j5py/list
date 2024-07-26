@@ -96,6 +96,7 @@
 <br />https://www.ettercap-project.org
 <br />https://www.exploit-db.com
 <br />https://www.hybrid-analysis.com
+<br />https://www.ired.team
 <br />https://www.joesandbox.com
 <br />https://www.kali.org
 <br />https://www.linuxkernelcves.com/cves
