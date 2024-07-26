@@ -207,7 +207,7 @@ class Boot(Interactive, Persistence, List, Pattern): #great-grandchild
     def display_state(self):
         if self.updated > self.previous:
             if self.p:
-                i = f'Command line p{"s" if self.updated - self.previous > 1 else ""}'
+                i = f'Command line argument{"s" if self.updated - self.previous > 1 else ""}'
                 i += f' moved in {where_new_valid_urls_are_stored_alphabetically}'
             else:
                 i = f'Content of {where_potential_urls_can_be_proposed_one_per_line}'
