@@ -111,5 +111,6 @@
 <br />https://www.tenable.com/cve/newest
 <br />https://www.tenable.com/downloads/nessus
 <br />https://www.thehacker.recipes
+<br />https://www.virustotal.com/gui/home/upload
 <br />https://www.vulnhub.com
 <br />https://www.wireguard.com
