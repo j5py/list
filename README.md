@@ -65,6 +65,7 @@
 <br />https://fr.wikipedia.org/wiki/Active_Directory
 <br />https://gchq.github.io/CyberChef
 <br />https://gtfobins.github.io
+<br />https://haveibeenpwned.com
 <br />https://help.shodan.io
 <br />https://highon.coffee/blog/penetration-testing-tools-cheat-sheet
 <br />https://infinitelogins.com/2021/02/24/linux-privilege-escalation-weak-file-permissions-writable-etc-passwd
