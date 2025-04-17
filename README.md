@@ -60,6 +60,7 @@
 <br />https://en.wikipedia.org/wiki/Stuxnet
 <br />https://en.wikipedia.org/wiki/Windows_Registry
 <br />https://en.wikipedia.org/wiki/X86_instruction_listings
+<br />https://euvd.enisa.europa.eu
 <br />https://exegol.readthedocs.io
 <br />https://exploit-notes.hdks.org
 <br />https://fr.wikipedia.org/wiki/Active_Directory
