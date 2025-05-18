@@ -88,6 +88,7 @@
 <br />https://tryhackme.com/glossary
 <br />https://ui.ctsearch.entrust.com/ui/ctsearchui
 <br />https://urlhaus.abuse.ch
+<br />https://util.unicode.org/UnicodeJsps/confusables.jsp
 <br />https://web.archive.org/web/20200901140719/http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 <br />https://wiki.owasp.org/index.php/OWASP_favicon_database
 <br />https://www.abuseipdb.com
